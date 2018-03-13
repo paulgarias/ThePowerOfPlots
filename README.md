@@ -3,4 +3,4 @@
 
 !["Scatter Plot"][scatterPlot]
 
-[scatterPlot]: 
+[scatterPlot]: Pyber/images/PyberScatterPlot.png
